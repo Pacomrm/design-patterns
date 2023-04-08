@@ -4,3 +4,6 @@ const obj1 = {
 const obj2 = {
 	b: 2
 }
+const more = {
+	t: 2
+}
