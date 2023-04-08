@@ -7,4 +7,3 @@ const obj4 = {
 const obj5 = {
 	e: 5
 }
-jajaja
